@@ -1,6 +1,8 @@
 //the approach is simple floor is the greatest elemnent just less than or equal to x. ceil is the smallest element  greater than or equal to x. we initialise 2 variables flr and cl to minimun possible value and maximum possibles values respectively. then we iterate the array. If we find a new element less than or equal to x we update floor to maximum of (flr, arr[i]) as floor is the GREATEST element <= x. We do the same for Ceil but using a min function instead. 
 //after the loop we check for two condition : if the does not exist any ceil or floor for x in the array. we do so by checking if cl and flr were ever updated in the array or not. if not we change their value to -1.
 
+//link to the problem  : https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=ceil-the-floor
+
 #include <bits/stdc++.h>
 using namespace std;
 
