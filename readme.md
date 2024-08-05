@@ -18,7 +18,7 @@ The repository is organized into folders based on the difficulty level of the pr
 
 Easy/ Medium/ Hard/ Within each folder, you'll find subfolders for each platform, containing the respective problem solutions.
 
-*** Feel free to contribute by: ***
+***Feel free to contribute by:***
 
 Submitting pull requests with new problems and solutions. Suggesting improvements to existing solutions.
 
